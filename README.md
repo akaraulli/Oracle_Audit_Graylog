@@ -7,6 +7,7 @@ https://github.com/akaraulli/Oracle_Audit_Add_on_for_Graylog
 Components:
 
 1. GELF TCP Input
+
 Oracle Audit TCP Input - will ingest records pushed by Oracle Audit Add-On for Graylog 
 
 2. Stream
@@ -15,7 +16,8 @@ Oracle Audit - data from Oracle Audit Add-On for Graylog deployments
 
 3. Dashboards
 
-Oracle Audit Events Summary 
+Oracle Audit Events Summary
+ 
 Oracle Audit Events Records
 
 4. Saved-Searches 
