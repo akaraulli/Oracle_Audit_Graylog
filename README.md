@@ -21,3 +21,9 @@ Oracle Audit Events Records
 4. Saved-Searches 
 
 named by respective SEO (Extra Search Options) fields - as described in Oracle Audit Add-On for Graylog User_Guide
+
+
+Oracle Audit Events Summary dashboard
+
+![Screenshot 2022-01-08 at 00-59-45 Oracle Audit Graylog SUmmary](https://user-images.githubusercontent.com/94201903/148621953-f348b963-6a9e-4035-8737-aae01b825a05.png)
+
